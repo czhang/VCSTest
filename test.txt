@@ -1,10 +1,2 @@
-test test2 hilo
-wa hoo!
-
-
-BRANCH BA NEW
-i don't know
-anymoar lol
-wat
-whatever
-github client
+Testing VCS
+Woo hoo!
